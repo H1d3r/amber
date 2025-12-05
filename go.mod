@@ -11,7 +11,6 @@ require (
 	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
-	github.com/sirupsen/logrus v1.9.0
-	golang.org/x/sys v0.17.0 // indirect
+	github.com/sirupsen/logrus v1.9.1
 	golang.org/x/term v0.17.0 // indirect
 )
